@@ -1,7 +1,6 @@
 ## Olá! sou o Guilherme 👋
 
-- 😉Atualmente procurando uma oportunidade no mercado de trabalho de TI
-- 🌱 Estudando Python e Java
+- 🌱 Estudando Dados, Power BI e IA
 - 📫 Contate-me: guialibarino@gmail.com
 - 😄 Pronomes: Ele/Dele
 
